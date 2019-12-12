@@ -1,0 +1,13 @@
+section {
+  border: 1px solid black;
+  width: 300px;
+  display: block;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  text-align: center;
+}
+.total{
+  font:bolder;
+  font-size: 25px;
+}

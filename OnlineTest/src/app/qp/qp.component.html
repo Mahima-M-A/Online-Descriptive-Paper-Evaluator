@@ -1,0 +1,15 @@
+<h1>NLP Descriptive Test</h1>
+<fieldset>
+  <h2>Answer The Following Questions:-</h2>
+  <h3>Q1) What is part of speech tagging? (Marks alloted:1) </h3>
+  <textarea [formControl]="ans1"></textarea><br>
+  <h3>Q2) What are the various kinds of knowledge of language required to engage in complex language?
+    (Marks alloted:2)</h3>
+  <textarea [formControl]="ans2"></textarea><br>
+  <h3>Q3) Define word prediction and mention any 4 applications of n-grams. (Marks alloted:3)</h3>
+  <textarea [formControl]="ans3"></textarea><br>
+  <h3>Q4) Write a note on context sensitive spelling error correction. (Marks alloted:4)</h3>
+  <textarea [formControl]="ans4"></textarea><br>
+
+  <input type="button" (click)="extract()" value="Submit" [routerLink]="['/result']">
+</fieldset>

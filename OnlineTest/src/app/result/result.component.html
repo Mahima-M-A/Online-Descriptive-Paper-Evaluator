@@ -1,0 +1,7 @@
+<section>
+  <h2>Marks Obtained</h2>
+  <div class="marks" *ngFor="let mark of marks | keyvalue">
+    Q{{mark.key}} - {{mark.value}}
+  </div><br>
+  <div class="total">Total marks obtained: {{total}} </div>
+</section>

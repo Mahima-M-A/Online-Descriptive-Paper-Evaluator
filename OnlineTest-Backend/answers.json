@@ -1,0 +1,6 @@
+{
+    "1":"Process of assigning a part of speech or syntactic class marker to each word in a corpus.",
+    "2":"Phonetics, Phonology, Morphology, Syntax, Semantics, Pragmatics, Discourse.",
+    "3":"Word Prediction or Language Modeling is the task of predicting what word comes next. Auto Completion, Spelling Check, Speech recognition, Compilers, Plagiarism Detection, Chatbots, Translation, Character Recognition",
+    "4":"Context-sensitive spelling correction is the task of fixing spelling errors that result in valid words. To detect Real-word error is the class of errors that results in an actual word of English. This can happen from typographical errors (insertion, deletion, transposition) that accidently produce a real word (eg there for three), or because the writer substituted the wrong spelling of a homophone or near-homophone (eg dessert for desert, or piece for peace). The task of correcting these errors is called context-sensitive spelling error correction. Local errors are those that are probably detectable from the immediate surrounding words, while global errors are ones in which error detection requires examination of a larger context."
+}    

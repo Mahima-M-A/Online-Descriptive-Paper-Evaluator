@@ -1,0 +1,6 @@
+{
+    "1":{"assigning":"60","part":"40","speech":"40","syntactic":"40","marker":"40"},
+    "2":{"phonetics":"14","phonology":"10","morphology":"16","syntax":"20","semantics":"17","pragmatics":"11","discourse":"12"},
+    "3":{"predicting":"40","next":"10","auto":"11","completion":"11","spelling":"9","check":"9","speech":"10","compilers":"6","plagiarism":"4","chatbots":"5","translation":"8","character":"7"},
+    "4":{"fixing":"15","correcting":"15","spelling":"14","misspelt":"14","real":"13","valid":"13","typographical":"9","insertion":"9","deletion":"9","modification":"9","homophones":"12","local":"10","global":"11","surrounding":"8","immediate":"8","larger":"7","detection":"14","error":"1"}
+}
