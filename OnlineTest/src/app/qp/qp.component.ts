@@ -17,6 +17,7 @@ export class QPComponent implements OnInit {
   total = 0.0;
   constructor(public scoreservice: ScoreService) {
     this.ans = {1: '', 2: '', 3: '', 4: ''};
+    this.marks = {'1': 0.0, '2': 0.0, '3': 0.0, '4': 0.0};
    }
 
   ngOnInit() {
